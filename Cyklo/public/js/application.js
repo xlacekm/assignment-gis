@@ -23,9 +23,9 @@ var layerGroup = [];
 $(document).ready(function(){
     $('#One').click(function(){
         var data = {};
-        data['distance']=$('#distance').val();
-        data['lng']=$('#lng').val();
-        data['lat']=$('#lat').val();
+            data['distance']=$('#distance').val();
+            data['lng']=$('#lng').val();
+            data['lat']=$('#lat').val();
         $.ajax({
             url: '/Surroundings',
             type: 'post',
