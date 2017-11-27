@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad66cb3f-1be1-4dc8-bad4-022f01fe7be8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDT/cherry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDT/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDT/public/js/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDT/public/js/phar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDT/public/js/restaurant.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot.png" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation.md" afterPath="$PROJECT_DIR$/documentation.md" />
-    </list>
+    <list default="true" id="ad66cb3f-1be1-4dc8-bad4-022f01fe7be8" name="Default" comment="" />
     <ignored path="assignment-gis.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
