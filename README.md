@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: `Web application for finding bike path. Choose a point on a map and fill in the distance in which you want to find bike path. You can choose a bike path, find pharmacy on the path and a place to refresh yourself.`
 
-**Data source**: `<fill in>`
+**Data source**: `<Open Street Maps>`
 
-**Technologies used**: `<fill in>`
+**Technologies used**: `<Python, Cherrypy, Javascript, HTML, Postgres, Postgis>`

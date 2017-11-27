@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8 />
+        <title>Cyklo</title>
+        <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.41.0/mapbox-gl.js'></script>
+        <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.41.0/mapbox-gl.css' rel='stylesheet' />
+        <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+        <style>
+            body { margin:0; padding:0; }
+            #map { position:absolute;
+                top: 30px;; bottom:0; width:100%; }
+        </style>
+    </head>
+
+
+    <body>
+        <div class="btngroup" style="width:100%;">
+                <input id="lng" style="width:8%;" type="text" placeholder="lng">
+                <input id="lat" style="width:8%;" type="text" placeholder="lat">
+                <input id="distance" style="width:8%;" type="text" value="0.1">
+                <button id="One" type="button" style="width:8%;">Surroundings</button>
+                <button id="Three" type="button" style="width:8%;">Near</button>
+                <button id="Four" class="button" style="width:8%;">Pharmacy</button>
+                <button id="Five" class="button" style="width:8%;">Food</button>
+                <button id="Two" class="button"  style="width:8%;">Clear</button>
+        </div>
+        <div id='map'></div>
+        <script src="/static/js/application.js">
+        </script>
+    </body>
+</html>
